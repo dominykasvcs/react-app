@@ -1,0 +1,13 @@
+.container-fluid.cards{
+    padding: 120px 0;
+}
+
+.container-fluid.cards .container {
+    display: flex;
+    gap: 24px
+}
+.card-head {
+    width: 100%;
+    height: 250px;
+    background-color: green;
+}
